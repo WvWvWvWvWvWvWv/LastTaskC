@@ -1,0 +1,15 @@
+/Users/wv/Desktop/Учеба/LastTaskC/Task/bin/Debug/net7.0/Task
+/Users/wv/Desktop/Учеба/LastTaskC/Task/bin/Debug/net7.0/Task.deps.json
+/Users/wv/Desktop/Учеба/LastTaskC/Task/bin/Debug/net7.0/Task.runtimeconfig.json
+/Users/wv/Desktop/Учеба/LastTaskC/Task/bin/Debug/net7.0/Task.dll
+/Users/wv/Desktop/Учеба/LastTaskC/Task/bin/Debug/net7.0/Task.pdb
+/Users/wv/Desktop/Учеба/LastTaskC/Task/obj/Debug/net7.0/Task.csproj.AssemblyReference.cache
+/Users/wv/Desktop/Учеба/LastTaskC/Task/obj/Debug/net7.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wv/Desktop/Учеба/LastTaskC/Task/obj/Debug/net7.0/Task.AssemblyInfoInputs.cache
+/Users/wv/Desktop/Учеба/LastTaskC/Task/obj/Debug/net7.0/Task.AssemblyInfo.cs
+/Users/wv/Desktop/Учеба/LastTaskC/Task/obj/Debug/net7.0/Task.csproj.CoreCompileInputs.cache
+/Users/wv/Desktop/Учеба/LastTaskC/Task/obj/Debug/net7.0/Task.dll
+/Users/wv/Desktop/Учеба/LastTaskC/Task/obj/Debug/net7.0/refint/Task.dll
+/Users/wv/Desktop/Учеба/LastTaskC/Task/obj/Debug/net7.0/Task.pdb
+/Users/wv/Desktop/Учеба/LastTaskC/Task/obj/Debug/net7.0/Task.genruntimeconfig.cache
+/Users/wv/Desktop/Учеба/LastTaskC/Task/obj/Debug/net7.0/ref/Task.dll
