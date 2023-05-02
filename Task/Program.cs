@@ -26,4 +26,5 @@ void PrintArray(string[] array)
 string[] array1 = new string[4] { "Hello", "2", "world", ":-" };
 string[] array2 = new string[array1.Length];
 SecondArray(array1, array2);
+PrintArray(array1);
 PrintArray(array2);
